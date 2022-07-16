@@ -1,8 +1,7 @@
 Allah help me
 I am muslim
-<<<<<<< HEAD
+
 My din is islam .
-=======
-My din is islam 
+
 Allah
->>>>>>> ebc9a5cf03e1e3ed8506412af9b15edca3362da3
+
